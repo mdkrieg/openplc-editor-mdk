@@ -1,9 +1,3 @@
-* [Página inicial](https://openplcproject.com/ "Página inicial")
-* [Docs](https://autonomylogic.com/docs/ "Docs")
-* [2. OpenPLC Runtime](https://autonomylogic.com/docs-category/openplc-runtime/ "2. OpenPLC Runtime")
-* 2.4 Physical Addressing
-
-
 2.4 Physical Addressing
 =======================
 
@@ -211,12 +205,3 @@ UniPi Industrial Platform
 | Digital Out | REL8, REL7, REL6, REL5, REL4, REL3, REL2, REL1 | %QX0.0 – %QX0.7 |
 | Analog In | AI1, AI2 | %IW0 – %IW1 |
 | Analog Out | AO | %QW0 – %QW0 |
-
-##### What are your Feelings
-
-Updated on 2024-04-12
-
-Leave a Reply [Cancel reply](/docs/2-4-physical-addressing/#respond)
---------------------------------------------------------------------
-
-You must be [logged in](https://autonomylogic.com/wp-login.php?redirect_to=https%3A%2F%2Fautonomylogic.com%2Fdocs%2F2-4-physical-addressing%2F) to post a comment.

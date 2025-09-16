@@ -1,9 +1,3 @@
-* [Página inicial](https://openplcproject.com/ "Página inicial")
-* [Docs](https://autonomylogic.com/docs/ "Docs")
-* [3. OpenPLC Editor](https://autonomylogic.com/docs-category/openplc-editor/ "3. OpenPLC Editor")
-* 3.2 Creating Your First Project on OpenPLC Editor
-
-
 3.2 Creating Your First Project on OpenPLC Editor
 =================================================
 
@@ -95,12 +89,3 @@ This will open a new window where you can see the electrical flow of your progra
 Apart from graphically viewing the electrical flow on the diagram, you can also follow up the data in each variable of your program at the Debugger panel on the right side of the screen. You can add variables to the Debugger panel by clicking on the glasses icon in front of each variable from the panel on the left. Also, by double-clicking a variable on the Debugger panel you can see a graph in real-time showing the current values of the variable. This can be really useful when your program is counting steps or manipulating data.
 
 Finally, after you have created and tested you program, the last step is to generate your program in a format that the OpenPLC Runtime will understand. To do that, simply click on Generate program for OpenPLC Runtime on the tool bar (orange down arrow) and save the .st file on your computer. This file is your ladder logic program written in a language that OpenPLC Runtime can understand. You can later upload this file to the OpenPLC Runtime as explained on [**2.2 Uploading Programs to OpenPLC Runtime.**](/docs/2-2-uploading-programs-to-openplc-runtime) For bare bones platforms like the Arduino boards, you can upload your program straight from OpenPLC Editor by clicking on the Arduino icon at the top tool bar.
-
-##### What are your Feelings
-
-Updated on 2024-09-17
-
-Leave a Reply [Cancel reply](/docs/3-2-creating-your-first-project-on-openplc-editor/#respond)
-----------------------------------------------------------------------------------------------
-
-You must be [logged in](https://autonomylogic.com/wp-login.php?redirect_to=https%3A%2F%2Fautonomylogic.com%2Fdocs%2F3-2-creating-your-first-project-on-openplc-editor%2F) to post a comment.

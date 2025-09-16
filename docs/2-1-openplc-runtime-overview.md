@@ -1,9 +1,3 @@
-* [Página inicial](https://openplcproject.com/ "Página inicial")
-* [Docs](https://autonomylogic.com/docs/ "Docs")
-* [2. OpenPLC Runtime](https://autonomylogic.com/docs-category/openplc-runtime/ "2. OpenPLC Runtime")
-* 2.1 OpenPLC Runtime Overview
-
-
 2.1 OpenPLC Runtime Overview
 ============================
 
@@ -35,12 +29,3 @@ By default OpenPLC runtime is installed with a blank driver. This means that it 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)![](https://openplcproject.github.io/runtime/img/selecthw.png)
 
 Once you’ve selected the right driver, click on “Save changes” and wait until the runtime core is rebuilt. If everything is correct, you should see a message at the end saying that the compilation ended successfully.
-
-##### What are your Feelings
-
-Updated on 2022-07-06
-
-Leave a Reply [Cancel reply](/docs/2-1-openplc-runtime-overview/#respond)
--------------------------------------------------------------------------
-
-You must be [logged in](https://autonomylogic.com/wp-login.php?redirect_to=https%3A%2F%2Fautonomylogic.com%2Fdocs%2F2-1-openplc-runtime-overview%2F) to post a comment.

@@ -1,9 +1,3 @@
-* [Página inicial](https://openplcproject.com/ "Página inicial")
-* [Docs](https://autonomylogic.com/docs/ "Docs")
-* [1. Get Started](https://autonomylogic.com/docs-category/overview/ "1. Get Started")
-* 1.3 Installing OpenPLC Runtime on Windows
-
-
 1.3 Installing OpenPLC Runtime on Windows
 =========================================
 
@@ -46,12 +40,3 @@ After typing these commands, OpenPLC Runtime installation will start inside MSYS
 > cd OpenPLC\_v3
 >
 > ./start\_openplc.sh
-
-##### What are your Feelings
-
-Updated on 2024-09-03
-
-Leave a Reply [Cancel reply](/docs/installing-openplc-runtime-on-windows/#respond)
-----------------------------------------------------------------------------------
-
-You must be [logged in](https://autonomylogic.com/wp-login.php?redirect_to=https%3A%2F%2Fautonomylogic.com%2Fdocs%2Finstalling-openplc-runtime-on-windows%2F) to post a comment.

@@ -1,9 +1,3 @@
-* [Página inicial](https://openplcproject.com/ "Página inicial")
-* [Docs](https://autonomylogic.com/docs/ "Docs")
-* [1. Get Started](https://autonomylogic.com/docs-category/overview/ "1. Get Started")
-* 1.4 Installing OpenPLC Runtime on Linux
-
-
 1.4 Installing OpenPLC Runtime on Linux
 =======================================
 
@@ -73,12 +67,3 @@ Before starting OpenPLC runtime, you will need to load the I2C module into the k
 > ​gpio load i2c
 
 A reboot is needed after using this command. You only need to type it once.
-
-##### What are your Feelings
-
-Updated on 2022-10-10
-
-Leave a Reply [Cancel reply](/docs/installing-openplc-runtime-on-linux-systems/#respond)
-----------------------------------------------------------------------------------------
-
-You must be [logged in](https://autonomylogic.com/wp-login.php?redirect_to=https%3A%2F%2Fautonomylogic.com%2Fdocs%2Finstalling-openplc-runtime-on-linux-systems%2F) to post a comment.

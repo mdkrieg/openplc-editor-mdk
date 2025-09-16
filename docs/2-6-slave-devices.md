@@ -1,9 +1,3 @@
-* [Página inicial](https://openplcproject.com/ "Página inicial")
-* [Docs](https://autonomylogic.com/docs/ "Docs")
-* [2. OpenPLC Runtime](https://autonomylogic.com/docs-category/openplc-runtime/ "2. OpenPLC Runtime")
-* 2.6 Slave Devices
-
-
 2.6 Slave Devices
 =================
 
@@ -59,12 +53,3 @@ The pin mapping for your Modbus device depends on its position on the slave devi
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201888%20638'%3E%3C/svg%3E)![](https://autonomylogic.com//wp-content/uploads/2022/06/modbusmapping.png)
 
 From the table you can see the specific OpenPLC addresses for each device, where it starts and where it ends. For example, each ESP8266 on this list has 8 digital inputs, 8 digital outputs, 1 analog input, and 1 analog output. Therefore, the first device has the 8 digital inputs mapped on %IX100.0 to %IX100.7. All the other inputs and outputs follow the same pattern.
-
-##### What are your Feelings
-
-Updated on 2024-01-18
-
-Leave a Reply [Cancel reply](/docs/2-6-slave-devices/#respond)
---------------------------------------------------------------
-
-You must be [logged in](https://autonomylogic.com/wp-login.php?redirect_to=https%3A%2F%2Fautonomylogic.com%2Fdocs%2F2-6-slave-devices%2F) to post a comment.

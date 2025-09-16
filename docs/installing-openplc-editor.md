@@ -1,9 +1,3 @@
-* [Página inicial](https://openplcproject.com/ "Página inicial")
-* [Docs](https://autonomylogic.com/docs/ "Docs")
-* [1. Get Started](https://autonomylogic.com/docs-category/overview/ "1. Get Started")
-* 1.2 Installing OpenPLC Editor
-
-
 1.2 Installing OpenPLC Editor
 =============================
 
@@ -108,12 +102,3 @@ As Python 2.7 and wxPython 3.0 are now deprecated, we have put ongoing efforts t
 Once OpenPLC Editor is installed you can run it with:
 
 > python3 ./editor/Beremiz.py
-
-##### What are your Feelings
-
-Updated on 2022-10-10
-
-Leave a Reply [Cancel reply](/docs/installing-openplc-editor/#respond)
-----------------------------------------------------------------------
-
-You must be [logged in](https://autonomylogic.com/wp-login.php?redirect_to=https%3A%2F%2Fautonomylogic.com%2Fdocs%2Finstalling-openplc-editor%2F) to post a comment.

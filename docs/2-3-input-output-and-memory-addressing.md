@@ -1,9 +1,3 @@
-* [Página inicial](https://openplcproject.com/ "Página inicial")
-* [Docs](https://autonomylogic.com/docs/ "Docs")
-* [2. OpenPLC Runtime](https://autonomylogic.com/docs-category/openplc-runtime/ "2. OpenPLC Runtime")
-* 2.3 Input, Output and Memory Addressing
-
-
 2.3 Input, Output and Memory Addressing
 =======================================
 
@@ -36,12 +30,3 @@ The following are *invalid* examples of PLC addresses in OpenPLC for the stated 
 * **%IX0.8** The least significant index is greater than 7.
 * **%QX0.0.1** Three part hierarchy is not permitted address.
 * **%IB1.1** Two part hierarchy is only permitted for X data size.
-
-##### What are your Feelings
-
-Updated on 2022-12-28
-
-Leave a Reply [Cancel reply](/docs/2-3-input-output-and-memory-addressing/#respond)
------------------------------------------------------------------------------------
-
-You must be [logged in](https://autonomylogic.com/wp-login.php?redirect_to=https%3A%2F%2Fautonomylogic.com%2Fdocs%2F2-3-input-output-and-memory-addressing%2F) to post a comment.

@@ -1,9 +1,3 @@
-* [Página inicial](https://openplcproject.com/ "Página inicial")
-* [Docs](https://autonomylogic.com/docs/ "Docs")
-* [2. OpenPLC Runtime](https://autonomylogic.com/docs-category/openplc-runtime/ "2. OpenPLC Runtime")
-* 2.5 Modbus Addressing
-
-
 2.5 Modbus Addressing
 =====================
 
@@ -69,12 +63,3 @@ Discrete output coil and discrete input contact binding are based on the the two
 > final address = msp.lsp
 
 For example, if the Modbus address for a discrete output coil is *22*, then the most significant part is *2* (22 / 8) and the least significant part is *6* (22 mod 8). Therefore, the PLC address is *%QX2.6*.
-
-##### What are your Feelings
-
-Updated on 2024-12-16
-
-Leave a Reply [Cancel reply](/docs/2-5-modbus-addressing/#respond)
-------------------------------------------------------------------
-
-You must be [logged in](https://autonomylogic.com/wp-login.php?redirect_to=https%3A%2F%2Fautonomylogic.com%2Fdocs%2F2-5-modbus-addressing%2F) to post a comment.

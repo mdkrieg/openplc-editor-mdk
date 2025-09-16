@@ -1,9 +1,3 @@
-* [Página inicial](https://openplcproject.com/ "Página inicial")
-* [Docs](https://autonomylogic.com/docs/ "Docs")
-* [2. OpenPLC Runtime](https://autonomylogic.com/docs-category/openplc-runtime/ "2. OpenPLC Runtime")
-* 2.2 Uploading Programs to OpenPLC Runtime
-
-
 2.2 Uploading Programs to OpenPLC Runtime
 =========================================
 
@@ -24,12 +18,3 @@ On the window that appears, just fill out some information about your program so
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)![](https://openplcproject.github.io/reference/basics/uploading-running-3.png)
 
 Once the file is uploaded, you will be directed back to the dashboard screen and the OpenPLC status will change to “compiling”. The logs about the compilation process are displayed on the runtime logs box. Once the compilation process is finished, the status will change to “running” and your new program will be run. If there was an error on your program, the status will change to “stopped” and the errors will be displayed on the runtime logs box.
-
-##### What are your Feelings
-
-Updated on 2022-07-06
-
-Leave a Reply [Cancel reply](/docs/2-2-uploading-programs-to-openplc-runtime/#respond)
---------------------------------------------------------------------------------------
-
-You must be [logged in](https://autonomylogic.com/wp-login.php?redirect_to=https%3A%2F%2Fautonomylogic.com%2Fdocs%2F2-2-uploading-programs-to-openplc-runtime%2F) to post a comment.

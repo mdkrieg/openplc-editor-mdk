@@ -1,9 +1,3 @@
-* [Página inicial](https://openplcproject.com/ "Página inicial")
-* [Docs](https://autonomylogic.com/docs/ "Docs")
-* [3. OpenPLC Editor](https://autonomylogic.com/docs-category/openplc-editor/ "3. OpenPLC Editor")
-* 3.3 Adding new blocks to OpenPLC Editor’s library
-
-
 3.3 Adding new blocks to OpenPLC Editor’s library
 =================================================
 
@@ -296,7 +290,3 @@ This will make the *“print\_number\_on\_serial”* function callable from you
 >
 > return;  
 > } // TEST\_body\_\_()
-
-##### What are your Feelings
-
-Updated on 2023-09-07
